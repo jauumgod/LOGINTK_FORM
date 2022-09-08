@@ -1,11 +1,10 @@
 
-from cProfile import label
+
 from tkinter import *
 from tkinter import messagebox
 from tkinter import ttk
 import time
 
-from numpy import place
 
 
 class tela2:
